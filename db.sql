@@ -1,2 +1,2 @@
 hello 
-index.html
+index.sql
